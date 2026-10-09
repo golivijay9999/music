@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 Aura Music - Ad-Free Music Streaming App
 
 An elegant, user-friendly music streaming application inspired by Spotify with **zero ads**, **unlimited streaming**, **high-definition 320 kbps audio**, and **real-time synced karaoke lyrics**.
@@ -45,3 +46,7 @@ Then visit **`http://localhost:3000`** in your browser.
 1. Open `http://localhost:3000` in Google Chrome or Microsoft Edge.
 2. Click the **Install** icon in the address bar (or go to `Settings > Apps > Install Aura Music`).
 3. Aura Music will now run as a native standalone desktop app with its own taskbar icon and window!
+=======
+# music
+adfree
+>>>>>>> 44c948847abea2bc20a5d07b6fc6a9929333f303
